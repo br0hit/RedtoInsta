@@ -5,7 +5,7 @@ import os
 
 reddit = praw.Reddit(
     # username="WeedDistributor",
-    # password="Harshu@0103",
+    # password="",
     client_id='Kq7VHz9Af77lJbc-EiPPIg',
     client_secret='X6mgb9Y78eX8nEvtCc4K5Tamb1-BOw',
     user_agent='script:RedtoInsta:v1.0 (by /u/WeedDistributor)',

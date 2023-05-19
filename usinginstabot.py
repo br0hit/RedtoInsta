@@ -8,7 +8,7 @@ import glob
 
 insta = Bot()
 
-insta.login(username = 'brohit_reddy',  password = 'Harshu@0103')
+insta.login(username = 'brohit_reddy',  password = '')
 # insta.upload_photo(photo = "test2.jpg",caption= "botworking")
 
 file = "funny/images/23546_Gifted.jpg"

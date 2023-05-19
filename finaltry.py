@@ -21,7 +21,7 @@ def clean_up():
 def upload_post():
     bot = Bot()
 
-    bot.login(username="brohit_reddy", password="Harshu@0103")
+    bot.login(username="brohit_reddy", password="")
     bot.upload_photo("test2.jpg", caption="Bot testing")
 
 
